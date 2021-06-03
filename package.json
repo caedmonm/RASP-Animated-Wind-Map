@@ -1,0 +1,24 @@
+{
+  "name": "rasp-animated-wind-map",
+  "version": "1.0.0",
+  "description": "Wind and Star rating visualisation using P5.js",
+  "main": "hybrid.js",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "npx http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caedmonm/RASP-Animated-Wind-Map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caedmonm/RASP-Animated-Wind-Map/issues"
+  },
+  "homepage": "https://github.com/caedmonm/RASP-Animated-Wind-Map#readme"
+}
